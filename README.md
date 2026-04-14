@@ -43,13 +43,13 @@ This project explores how gaming habits relate to mental health indicators such 
 <img width="695" height="470" alt="Age Distribution of players" src="https://github.com/user-attachments/assets/56a87f8f-b82a-408f-8d49-a60d8e7af168" />
 
 ### Gaming Hours Distribution
-<img width="695" height="470" alt="Distribution of daily gaming hours" src="images/gaming_hours_distribution.png" />
+<img width="704" height="470" alt="image" src="https://github.com/user-attachments/assets/bbe53918-0ff5-4006-8499-7022219acb80" />
 
 ### Correlation Heatmap
-<img width="704" height="470" alt="Correlation between gaming habits and mental health variables" src="https://github.com/user-attachments/assets/faf3e59e-2483-4c0c-a595-acc84783f4fe" />
+<img width="750" height="652" alt="image" src="https://github.com/user-attachments/assets/f74ac797-5650-4085-8eb5-1f346c0431f6" />
 
 ### Gaming Hours vs Addiction Level
-<img width="750" height="652" alt="Relationship between gaming hours and addiction level" src="https://github.com/user-attachments/assets/8c67f8ae-ce81-473b-a40e-ec59fe6381f9" />
+<img width="686" height="470" alt="image" src="https://github.com/user-attachments/assets/9cf5811c-fee9-41b2-bca5-a41a56aea028" />
 
 ---
 
