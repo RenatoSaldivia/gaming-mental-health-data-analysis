@@ -58,3 +58,5 @@ This project explores how gaming habits relate to mental health indicators such 
 ```bash
 git clone https://github.com/RenatoSaldivia/gaming-mental-health-data-analysis.git
 cd gaming-mental-health-data-analysis
+```
+- Open the notebook in Jupyter or Google Colab.
