@@ -1,120 +1,60 @@
-# 🎮 Gaming and Mental Health Data Analysis
+# 🎮 Gaming & Mental Health Data Analysis
 
-Exploratory Data Analysis (EDA) of gaming behavior and mental health indicators using Python.
+📊 Exploratory Data Analysis (EDA) on gaming behavior and mental health using Python.
 
-This project analyzes a dataset containing information about players’ gaming habits, lifestyle factors, and mental health metrics in order to explore potential relationships between gaming behavior and psychological well-being.
-
----
-
-## 📊 Project Objective
-
-Video games are one of the most popular forms of entertainment worldwide. However, their potential impact on mental health has become an increasingly discussed topic.
-
-The objective of this project is to explore whether gaming behavior — particularly **daily gaming hours** — shows any meaningful relationship with mental health indicators such as:
-
-* Stress level
-* Anxiety score
-* Depression score
-* Addiction level
-
-Using exploratory data analysis (EDA), we aim to identify patterns, correlations, and insights within the dataset.
+This project explores how gaming habits relate to mental health indicators such as stress, anxiety, depression, and addiction levels.
 
 ---
 
-## 📁 Dataset
+## 🧠 Key Insights
 
-Dataset used in this project:
-
-Gaming and Mental Health Dataset (Kaggle)
-
-https://www.kaggle.com/datasets/sharmajicoder/gaming-and-mental-health
-
-The dataset includes information about:
-
-* Age and gender of players
-* Daily gaming hours
-* Sleep hours
-* Exercise hours
-* Total screen time
-* Stress, anxiety, and depression scores
-* Gaming addiction level
+- ⏱️ Most players game between **1–5 hours daily**  
+- 🔗 Strong positive correlation between **gaming hours and addiction level**  
+- 📉 Mental health indicators (stress, anxiety, depression) show **weak correlation** with gaming time  
+- ⚖️ Suggests that **gaming alone is not a strong predictor of mental health issues**  
 
 ---
 
-## 🛠 Tools and Technologies
+## 📊 Dataset
 
-This project was developed using:
-
-* Python
-* Pandas
-* Matplotlib
-* Seaborn
-* Jupyter Notebook / Google Colab
-* Git
-* GitHub
+- 📁 Source: Gaming & Mental Health Dataset (Kaggle)  
+- Real-world dataset including:
+  - Age and gender  
+  - Daily gaming hours  
+  - Sleep and exercise habits  
+  - Stress, anxiety, and depression scores  
+  - Addiction level  
 
 ---
 
-## 📈 Exploratory Data Analysis
+## 🛠️ Tech Stack
+
+- Python  
+- Pandas  
+- Matplotlib  
+- Seaborn  
+- Jupyter Notebook / Google Colab  
+
+---
+
+## 📈 Visualizations
 
 ### Age Distribution
-
-<img width="695" height="470" alt="image" src="https://github.com/user-attachments/assets/56a87f8f-b82a-408f-8d49-a60d8e7af168" />
-
-The dataset contains players between approximately **13 and 59 years old**, with a relatively uniform distribution across age groups.
-
----
+<img width="695" height="470" alt="Age Distribution of players" src="https://github.com/user-attachments/assets/56a87f8f-b82a-408f-8d49-a60d8e7af168" />
 
 ### Gaming Hours Distribution
-
-![Gaming Hours](images/gaming_hours_distribution.png)
-
-Most players spend **between 1 and 5 hours per day gaming**, while a small number of players show extreme gaming habits.
-
----
+<img width="695" height="470" alt="Distribution of daily gaming hours" src="images/gaming_hours_distribution.png" />
 
 ### Correlation Heatmap
-
-<img width="704" height="470" alt="image" src="https://github.com/user-attachments/assets/faf3e59e-2483-4c0c-a595-acc84783f4fe" />
-
-Daily gaming hours show a **strong correlation with addiction level**, while mental health indicators show weak correlations with gaming behavior.
-
----
+<img width="704" height="470" alt="Correlation between gaming habits and mental health variables" src="https://github.com/user-attachments/assets/faf3e59e-2483-4c0c-a595-acc84783f4fe" />
 
 ### Gaming Hours vs Addiction Level
-
-<img width="750" height="652" alt="image" src="https://github.com/user-attachments/assets/8c67f8ae-ce81-473b-a40e-ec59fe6381f9" />
-
-There is a clear **positive relationship between gaming hours and addiction level**.
+<img width="750" height="652" alt="Relationship between gaming hours and addiction level" src="https://github.com/user-attachments/assets/8c67f8ae-ce81-473b-a40e-ec59fe6381f9" />
 
 ---
 
-## 📓 Project Notebook
+## 🚀 How to Run
 
-The full exploratory analysis can be found in the notebook:
-
-`notebook/gaming_mental_health_analysis.ipynb`
-
----
-
-## 🚀 How to Run the Project
-
-1. Clone the repository
-
-```
-git clone https://github.com/RenatoSaldivia/gaming-mental-health-analysis.git
-```
-
-2. Navigate to the project folder
-
-```
-cd gaming-mental-health-analysis
-```
-
-3. Open the notebook with Jupyter Notebook or upload it to Google Colab.
-
----
-
-## 👤 Author
-
-Renato Saldivia
+```bash
+git clone https://github.com/RenatoSaldivia/gaming-mental-health-data-analysis.git
+cd gaming-mental-health-data-analysis
